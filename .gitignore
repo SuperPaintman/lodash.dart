@@ -1,0 +1,20 @@
+### Dart ###
+.packages
+.pub/
+build/
+
+pubspec.lock
+
+.project
+.buildlog
+**/packages/
+
+# Files created by dart2js
+*.dart.js
+*.part.js
+*.js.deps
+*.js.map
+*.info.json
+
+# Directory created by dartdoc
+doc/api/

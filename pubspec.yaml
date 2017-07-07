@@ -1,0 +1,8 @@
+name: lodash
+version: 0.0.1
+authors:
+  - SuperPaintman <SuperPaintmanDeveloper@gmail.com>
+description: Utility library.
+homepage: https://github.com/SuperPaintman/lodash.dart
+dev_dependencies:
+  test: '0.12.23+1'
